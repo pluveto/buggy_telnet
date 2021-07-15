@@ -1,1 +1,0 @@
-/bin/clang++-11  -g  -rdynamic CMakeFiles/btel_client.dir/client.cpp.o  -o btel_client   -L/app/vcpkg/installed/x64-linux/lib  -Wl,-rpath,/app/vcpkg/installed/x64-linux/lib /app/vcpkg/installed/x64-linux/debug/lib/libspdlogd.a -lpthread /app/vcpkg/installed/x64-linux/debug/lib/libfmtd.a 

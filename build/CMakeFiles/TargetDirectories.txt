@@ -1,4 +1,0 @@
-/root/proj/ecomm/libs/buggy_telnet/build/CMakeFiles/rebuild_cache.dir
-/root/proj/ecomm/libs/buggy_telnet/build/CMakeFiles/edit_cache.dir
-/root/proj/ecomm/libs/buggy_telnet/build/CMakeFiles/btel_server.dir
-/root/proj/ecomm/libs/buggy_telnet/build/CMakeFiles/btel_client.dir
