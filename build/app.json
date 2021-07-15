@@ -1,0 +1,8 @@
+{
+    "name": "XX-Shop",
+    "motd": [
+        "Welcome to {name}",
+        "Type `help` for help."
+    ],
+    "db_name": "test.db"
+}

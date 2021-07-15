@@ -1,0 +1,1 @@
+/bin/clang++-11  -g  -rdynamic CMakeFiles/buggy_telnet_server.dir/server.cpp.o  -o buggy_telnet_server   -L/app/vcpkg/installed/x64-linux/lib  -Wl,-rpath,/app/vcpkg/installed/x64-linux/lib /app/vcpkg/installed/x64-linux/debug/lib/libspdlogd.a -lpthread /app/vcpkg/installed/x64-linux/debug/lib/libfmtd.a 

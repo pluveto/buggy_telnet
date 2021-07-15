@@ -1,0 +1,1 @@
+/bin/clang++-11  -g  -rdynamic CMakeFiles/buggy_telnet_sferver.dir/server.cpp.o  -o buggy_telnet_sferver   -L/app/vcpkg/installed/x64-linux/lib 

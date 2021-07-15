@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/root/proj/ecomm/libs/buggy_telnet/build",
+  "command": "/bin/clang++-11  -DFMT_LOCALE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -isystem /app/vcpkg/installed/x64-linux/include  -g   -o CMakeFiles/btel_server.dir/server.cpp.o -c /root/proj/ecomm/libs/buggy_telnet/server.cpp",
+  "file": "/root/proj/ecomm/libs/buggy_telnet/server.cpp"
+},
+{
+  "directory": "/root/proj/ecomm/libs/buggy_telnet/build",
+  "command": "/bin/clang++-11  -DFMT_LOCALE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -isystem /app/vcpkg/installed/x64-linux/include  -g   -o CMakeFiles/btel_client.dir/client.cpp.o -c /root/proj/ecomm/libs/buggy_telnet/client.cpp",
+  "file": "/root/proj/ecomm/libs/buggy_telnet/client.cpp"
+}
+]
